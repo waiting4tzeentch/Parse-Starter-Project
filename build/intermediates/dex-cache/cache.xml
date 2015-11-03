@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michaelmoser/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.3/36366e460af2c0f224bb8f70b64e3302f638b138/parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.10.3-a6c50090fe8154d74905be666d745e6b7bcacf4e.jar" />
+    </item>
+    <item
+        jar="/Users/michaelmoser/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-8cdbb0f3af3865b90180c7143752de501b7bae9b.jar" />
+    </item>
+    <item
+        jar="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-59f0edbc6aa0649cfdb68095bdb91ff606ae46d9.jar" />
+    </item>
+    <item
+        jar="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-1e93fd60b0a17171bf362b0cd961d85e55be6099.jar" />
+    </item>
+    <item
+        jar="/Users/michaelmoser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e37cc8ee348f0d47ef6020e95ff2a6cdd0239ad6.jar" />
+    </item>
+    <item
+        jar="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/michaelmoser/OneDrive/Git/Parse-Starter-Project/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-538b16521abe7617d3be36d4b9e8ca054a074b92.jar" />
+    </item>
+
+</items>

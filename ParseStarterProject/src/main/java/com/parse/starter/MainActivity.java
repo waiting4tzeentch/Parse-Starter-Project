@@ -9,14 +9,15 @@
 package com.parse.starter;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 import com.parse.ParseAnalytics;
+import com.parse.ParseObject;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +25,10 @@ public class MainActivity extends ActionBarActivity {
     setContentView(R.layout.activity_main);
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
+
+    ParseObject testObject = new ParseObject("TestObject");
+    testObject.put("foo", "bar");
+    testObject.saveInBackground();
   }
 
   @Override
